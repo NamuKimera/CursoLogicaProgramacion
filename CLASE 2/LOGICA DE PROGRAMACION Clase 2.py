@@ -1,7 +1,7 @@
 # Logica de Programacion Operadores
 
 # Clase 2
-"""
+
 
 # Operadores Aritmeticos
 
@@ -33,8 +33,6 @@ print(potencia)
 divisionEntera = 18 // 5
 
 print(divisionEntera)
-"""
-
 
 
 # Operadores Relacionales
