@@ -1,6 +1,6 @@
-# Logica de Programacion Operadores
+# Logica de Programacion
 
-# Clase 2
+# Clase 2 (OPERADORES)
 
 
 # Operadores Aritmeticos

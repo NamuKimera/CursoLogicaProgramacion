@@ -1,6 +1,6 @@
-# Logica de Programacion Comandos Basicos
+# Logica de Programacion
 
-# Clase 1
+# Clase 1 (PRIMEROS PASOS)
 
 ' HOLA SOY UN COMENTARIO '
 
