@@ -46,6 +46,4 @@ Bienvenidos a todos al curso de Lógica de Programación, en este archivo, voy a
 
 - Expresiones Lambda
 
-## CLASE 6
-
 - JSON y XML
