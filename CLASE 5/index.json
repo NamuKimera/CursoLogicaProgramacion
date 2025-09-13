@@ -1,0 +1,9 @@
+{
+    "EventosStreamsLimite": {
+        "type": "number",
+        "value": 10
+    },
+    "Seguidores":{
+        "type": "dropdown"
+    }
+}

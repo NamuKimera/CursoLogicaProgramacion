@@ -1,0 +1,10 @@
+<restaurante>
+    <menu>
+        <postres>
+            <POSTRE1>
+                <nombre> Helado </nombre>
+                <Precio> 2000 </Precio>
+            </POSTRE1>
+        </postres>
+    </menu>
+</restaurante>
